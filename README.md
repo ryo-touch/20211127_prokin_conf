@@ -1,2 +1,8 @@
 # 20211127_prokin_conf
-プロ筋confの発表資料
+これは、プロ筋confの発表資料置き場
+
+## タイトル
+新米PdM奮闘記～プロセスやツールよりも個人と対話を～
+
+## ref
+https://www.productkintore.org/prokinconf2021
